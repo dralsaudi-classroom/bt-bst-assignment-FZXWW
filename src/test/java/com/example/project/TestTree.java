@@ -136,4 +136,8 @@ public class TestTree {
       assertEquals(3, t.countNodesIn(34));
       assertEquals(0, t.countNodesIn(4));
    }
+private void assertEquals(int i, int countNodesIn) {
+	// TODO Auto-generated method stub
+	
+}
 }
